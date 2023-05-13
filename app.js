@@ -1,4 +1,4 @@
-const API_KEY = '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'
+const API_KEY = ''
 const submit_button = document.querySelector('#submit-button');
 const Input = document.querySelector('input');
 const imageSection = document.querySelector('.images-section')
